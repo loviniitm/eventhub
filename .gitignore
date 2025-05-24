@@ -32,10 +32,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# database
-*.db
-*.db-journal
-
 # IDE
 .idea/
 .vscode/
@@ -48,5 +44,3 @@ next-env.d.ts
 ._*
 .Spotlight-V100
 .Trashes
-ehthumbs.db
-Thumbs.db 
